@@ -1,4 +1,3 @@
-# UpdateInService-Android
 Update in service class.
 
 Make service generate a counter and check every time seconds.
